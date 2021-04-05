@@ -1,4 +1,4 @@
-<!-- ![GitHub Logo](/github_banner.jpg)
+![GitHub Logo](/github_banner.jpg)
 <p align="center">
   <img src="http://github_banner.jpg" />
 </p>
