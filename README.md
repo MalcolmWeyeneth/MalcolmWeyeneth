@@ -1,4 +1,4 @@
-![GitHub Logo](/github_banner3.jpg)
+![GitHub Logo](/github_banner4.jpg)
 </p>
 <!---### Hi there 👋
 
