@@ -1,4 +1,4 @@
-   ![GitHub Logo](/marketing_Banner_r3.jpg)
+   ![GitHub Logo](/github_banner.jpg)
 <!---### Hi there 👋
 
 <!--
