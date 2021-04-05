@@ -1,5 +1,5 @@
-![GitHub Logo](/marketing_Banner_r3.jpg)
-[//]: <> ### Hi there 👋
+                  ![GitHub Logo](/marketing_Banner_r3.jpg)
+<!---### Hi there 👋
 
 <!--
 **MalcolmWeyeneth/MalcolmWeyeneth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
