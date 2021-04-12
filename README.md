@@ -21,23 +21,14 @@ Here are some ideas to get you started:
  <table>
     <tr>
      <td><b>Backend Languages</b></td>
-        <td>Python 3 (Advanced), Kotlin, Java, C (Basics)</td>
+        <td>Python 3</td>
     </tr>
-    <tr>
-     <td><b>Frontend Languages</b></td>
-        <td>HTML, CSS, JavaScript</td>
-    </tr>
-    <tr>
-     <td><b>Document Markup Language</b></td>
-        <td> Markdown, XHTML, XML, LaTeX, Wiki markup</td>
-    </tr>
-    <tr>
      <td><b>Libraries</b></td>
-        <td>Bootstrap, jQuery, React (Basics), Node.js (Basics)</td>
+        <td>Bootstrap</td>
     </tr> 
     <tr>
      <td><b>Database</b></td>
-        <td>MySQL, SQLite3 (Basics)</td>
+        <td>MSSQL - Azure SQL - PostgreSQL</td>
     </tr>
     <tr>
      <td><b>Project Management Tools</b></td>
