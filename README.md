@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
      <td><b>Analytic Tools</b></td>
-        <td>Agile, Sublime, PyCharm, Jupyter Notebooks, Atom, Brackets, Visual Studio Code, Oxygen XML, Eclipse, GitHub Git, Gist, Docker, Google Colab.</td>
+        <td>Jupyter Notebooks, Visual Studio Code, GitHub Git, Google Colab.</td>
     </tr>
     <tr>
      <td><b>Operating System</b></td>
