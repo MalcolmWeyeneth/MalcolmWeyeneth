@@ -43,8 +43,8 @@ Here are some ideas to get you started:
         <td>Pandas, NumPy, Seaborn, Matplotlib, Pandas, Tableau</td>
     </tr>
     <tr>
-     <td><b>Cloud Computing (Beginner)</b></td>
-        <td>AWS, Google Cloud, Microsoft Azure, Heroku, Netlify</td>
+     <td><b>Cloud Computing</b></td>
+        <td>AMicrosoft Azure</td>
     </tr>
       <tr>
      <td><b>Tools</b></td>
