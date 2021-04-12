@@ -39,7 +39,7 @@ Here are some ideas to get you started:
         <td>Windows 10, Unix, Linux, Ubuntu, Android</td>
     </tr>
     <tr>
-     <td><b>Data Visualization Tools</b></td>
+     <td><b>Data Visualization</b></td>
         <td>Pandas, NumPy, Seaborn, Matplotlib</td>
     </tr>
     <tr>
