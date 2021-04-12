@@ -30,6 +30,10 @@ Here are some ideas to get you started:
      <td><b>Database</b></td>
         <td>MSSQL - Azure SQL - PostgreSQL</td>
     </tr>
+     <tr>
+     <td><b>DBMS</b></td>
+        <td>SSMS - Azure Data Studio - pgAdmin</td>
+    </tr>
     <tr>
      <td><b>Project Management Tools</b></td>
         <td>Agile, Sublime, PyCharm, Jupyter Notebooks, Atom, Brackets, Visual Studio Code, Oxygen XML, Eclipse, GitHub Git, Gist, Docker, Google Colab.</td>
