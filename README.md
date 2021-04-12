@@ -19,15 +19,7 @@ Here are some ideas to get you started:
 # Skills
 
  <table>
-    <tr>
-     <td><b>Backend Languages</b></td>
-        <td>Python 3</td>
-    </tr>
-     <td><b>Libraries</b></td>
-        <td>Bootstrap</td>
-    </tr> 
-    <tr>
-     <td><b>Database</b></td>
+    <td><b>Database</b></td>
         <td>MSSQL - Azure SQL - PostgreSQL</td>
     </tr>
      <tr>
