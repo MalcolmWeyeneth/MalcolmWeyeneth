@@ -36,5 +36,5 @@ Here are some ideas to get you started:
      </tr>
      <tr>
      <td><b>BI Tools</b></td>
-      <td><a href="https://powerbi.microsoft.com/de-de/desktop">Microsoft Power BI Desktop</a>  <a href="https://powerbi.microsoft.com/de-de/desktop">Microsoft Power BI Desktop</a></td>
+      <td><a href="https://powerbi.microsoft.com/de-de/desktop">Microsoft Power BI Desktop</a> - <a href="https://powerbi.microsoft.com/de-de/desktop">Microsoft Power BI Desktop</a></td>
     </tr>
