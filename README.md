@@ -33,3 +33,8 @@ Here are some ideas to get you started:
     <tr>
      <td><b>Analytic Tools</b></td>
         <td>Jupyter Notebooks - JupyterLab, Visual Studio Code, GitHub Git, Google Colab.</td>
+     </tr>
+     <tr>
+     <td><b>BI Tools</b></td>
+        <td>Microsoft Power BI, Microsoft Power BI Online Service</td>
+    </tr>
