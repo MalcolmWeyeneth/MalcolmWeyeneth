@@ -32,4 +32,4 @@ Here are some ideas to get you started:
     </tr>
     <tr>
      <td><b>Analytic Tools</b></td>
-        <td>Jupyter Notebooks, Visual Studio Code, GitHub Git, Google Colab.</td>
+        <td>Jupyter Notebooks - JupyterLab, Visual Studio Code, GitHub Git, Google Colab.</td>
