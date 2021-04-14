@@ -37,6 +37,5 @@ Here are some ideas to get you started:
      <tr>
      <td><b>BI Tools</b></td>
       <--!  <td>href="https://powerbi.microsoft.com" Microsoft Power BI Desktop, Microsoft Power BI Online Service</td> -->
-      <td>href="https://powerbi.microsoft.com" Microsoft Power BI Desktop, Microsoft Power BI Online Service</td>
-      <a href="https://powerbi.microsoft.com">Microsoft Power BI Desktopt</a>
+      <td><a href="https://powerbi.microsoft.com">Microsoft Power BI Desktopt</a></td>
     </tr>
