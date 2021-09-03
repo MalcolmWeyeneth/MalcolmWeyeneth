@@ -38,10 +38,3 @@ Here are some ideas to get you started:
      <td><b>BI Tools</b></td>
         <td>Microsoft Power BI</td>
     </tr>
-    <tr>
-    <td>A solid technical background, with more than 15 years of experience delivering complex global business-driven technology projects within the regulated financial services           industry. 
-    
-    Extensive international exposure having worked with diverse professionals, locally and remotely. Specialization in the harmonisation of technologies, as most of my                 projects originated from mergers and acquisitions. 
-    
-    I have a solid understanding of what is required when building and delivering new services, and how critical forging relationships across the organization when transforming to     new services. Exceptional organizational skills, confident communicator capable of working either independently or as part of a larger team. Flexible individual adapts well to     change. A motivated learner either independently or as part of a larger collective.</td>
-    </tr>
