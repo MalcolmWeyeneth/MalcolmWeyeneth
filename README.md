@@ -36,5 +36,5 @@ Here are some ideas to get you started:
      </tr>
      <tr>
      <td><b>BI Tools</b></td>
-        <td>Microsoft Power BI, Microsoft Power BI Online Service</td>
+        <td>Microsoft Power BI</td>
     </tr>
