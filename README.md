@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   <table>
     <td><b>Methodologies</b></td>
-        <td>ITIL, Agile, Lean Six Sigma, Management of Risk (M_O_R)</td>
+        <td>ITIL - Agile - Lean Six Sigma - Management of Risk (M_O_R)</td>
     </tr>
      <tr>
      <td><b></b></td>
