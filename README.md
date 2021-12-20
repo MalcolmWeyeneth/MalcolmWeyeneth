@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 # Skills
 
   <table>
-    <td><b>Database</b></td>
-        <td>MSSQL - Azure SQL - PostgreSQL</td>
+    <td><b>Methodologies</b></td>
+        <td>ITIL, Agile, Lean Six Sigma, Management of Risk (M_O_R)</td>
     </tr>
      <tr>
-     <td><b>DBMS</b></td>
+     <td><b></b></td>
         <td>SSMS - Azure Data Studio - pgAdmin</td>
     </tr>
      <tr>
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
         <td>Jupyter Notebooks - JupyterLab, Visual Studio Code, GitHub Git, Google Colab.</td>
      </tr>
      <tr>
-     <td><b>BI Tools</b></td>
+     <td><b></b></td>
         <td>Microsoft Power BI</td>
     </tr>
