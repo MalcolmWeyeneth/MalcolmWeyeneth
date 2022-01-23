@@ -20,21 +20,21 @@ Here are some ideas to get you started:
 
   <table>
     <td><b>Methodologies</b></td>
-        <td>ITIL - Agile - Lean Six Sigma - Management of Risk (M_O_R)</td>
+        <td>ITIL v3 - Agile - Lean Six Sigma - Management of Risk (M_O_R)</td>
     </tr>
      <tr>
-     <td><b></b></td>
-        <td>SSMS - Azure Data Studio - pgAdmin</td>
+     <td><b>M365</b></td>
+        <td>Microsoft Teams - Sharepoint Online - Microsoft Lists - Forms - Power Automate</td>
     </tr>
      <tr>
-     <td><b>Cloud Computing</b></td>
+     <td><b>Cloud</b></td>
         <td>Microsoft Azure</td>
     </tr>
     <tr>
-     <td><b>Analytic Tools</b></td>
-        <td>Jupyter Notebooks - JupyterLab, Visual Studio Code, GitHub Git, Google Colab.</td>
+     <td><b>Scripting</b></td>
+        <td>Powershell</td>
      </tr>
      <tr>
      <td><b></b></td>
-        <td>Microsoft Power BI</td>
+        <td</td>
     </tr>
