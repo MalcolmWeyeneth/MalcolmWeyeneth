@@ -35,6 +35,6 @@ Here are some ideas to get you started:
         <td>Powershell</td>
      </tr>
      <tr>
-     <td><b></b></td>
-        <td</td>
+     <td><b>Youtube</b></td>
+        <td><a href="https://www.youtube.com/channel/UC2ZcpXI-314UBzXHieCKA_w"</a></td>
     </tr>
